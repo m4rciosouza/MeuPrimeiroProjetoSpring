@@ -1,4 +1,4 @@
-package com.meudominio.api;
+package br.com.meuprimeiroprojeto;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
