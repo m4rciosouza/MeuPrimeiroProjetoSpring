@@ -1,4 +1,4 @@
-package br.com.meuprimeiroprojeto;
+package br.com.meuprimeiroprojeto.senhautils;
 
 import org.springframework.security.crypto.bcrypt.BCryptPasswordEncoder;
 
@@ -22,7 +22,7 @@ public class SenhaUtils​ {
 	}
 	
 	/**
-	 * Verifica se a senha é válida
+	 * Verifica se a senha e valida
 	 * 
 	 * @param senha
 	 * @param senhaEncoded
