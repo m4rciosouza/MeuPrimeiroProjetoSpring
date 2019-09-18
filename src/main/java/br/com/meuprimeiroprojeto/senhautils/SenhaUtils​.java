@@ -2,7 +2,7 @@ package br.com.meuprimeiroprojeto.senhautils;
 
 import org.springframework.security.crypto.bcrypt.BCryptPasswordEncoder;
 
-public class SenhaUtils​ {
+public class SenhaUtils​{
 	
 	/**
 	 * ​Gera​ ​um​ ​hash​ ​utilizando​ ​o​ ​BCrypt.
