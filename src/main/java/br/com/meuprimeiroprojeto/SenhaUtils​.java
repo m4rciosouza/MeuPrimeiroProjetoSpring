@@ -1,4 +1,4 @@
-package br.com.meuprimeiroprojeto.senhautils;
+package br.com.meuprimeiroprojeto;
 
 import org.springframework.security.crypto.bcrypt.BCryptPasswordEncoder;
 
