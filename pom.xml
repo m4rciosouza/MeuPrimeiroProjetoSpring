@@ -78,6 +78,12 @@
 	    <version>2.1.7.RELEASE</version>
 	</dependency>
 	
+	<dependency>
+	    <groupId>org.flywaydb</groupId>
+	    <artifactId>flyway-core</artifactId>
+	    <version>6.0.3</version>
+	</dependency>
+	
 	</dependencies>
 	
 	<build>
