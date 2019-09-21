@@ -8,10 +8,10 @@
 		<version>2.1.7.RELEASE</version>
 		<relativePath/> <!-- lookup parent from repository -->
 	</parent>
-	<groupId>com.meudominio</groupId>
+	<groupId>com.primeiroprojeto</groupId>
 	<artifactId>meu-primeiro-projeto</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
-	<packaging>war</packaging>
+	<packaging>jar</packaging>
 	<name>MeuPrimeiroProjeto</name>
 	<description>Meu Primeiro Projeto</description>
 
